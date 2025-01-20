@@ -1,7 +1,3 @@
-Here's a README file content for your Digit Recognition project:
-
----
-
 # Digit Recognition using CNN
 
 This project aims to build a Convolutional Neural Network (CNN) model to classify handwritten digits (0-9) from the MNIST dataset. The goal is to train a deep learning model that can predict the digit labels from images of handwritten numbers.
